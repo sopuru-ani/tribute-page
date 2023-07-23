@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    width: 100%;
+    padding: 20px 10px;
+    box-sizing: border-box;
+    font-family: "tahoma light";
+    
+  }
+  #title {
+    text-align: center;
+  }
+  #main {
+    background-color: rgb(244, 241, 241);
+    width: 100%;
+    /* margin: 20px 10px; */
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 10px 0;
+  }
+  #img-div {
+    display: flex;
+    /* width: 90%; */
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 20px 5px;
+    margin: 10px;
+    background-color: white;
+  }
+  #image {
+    max-width: 100%;
+    height: auto;
+  }
+  #img-caption {
+    margin-top: 20px;
+    text-align: center;
+  }
+  img {
+    display: block;
+  }
+  figure {
+    margin: 0 auto;
+  }
+  p {
+    text-align: center;
+  }
+  #tribute-info {
+    margin: 0 auto;
+    width: 50%;
+  }
+  .bold {
+    font-weight: bold;
+  }
+  h3 {
+    text-align: center;
+  }
+  li {
+    padding: 5px 0;
+  }
+  
